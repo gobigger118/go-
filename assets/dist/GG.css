@@ -1,0 +1,37 @@
+html,
+body,
+div,
+ul,
+li,
+span,
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+textarea,
+nav,
+img {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+input,
+textarea {
+  outline: none;
+  appearance: none;
+}
+a,
+img {
+  -webkit-touch-callout: none;
+}
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+img {
+  width: 100%;
+}
